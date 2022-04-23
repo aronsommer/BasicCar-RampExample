@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{C0DE0AD7-BD25-D598-20FB-55CD968CE506}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SimpleCarController2.cs">
+    <Files>
+      <File FileName="Assets/Scripts/SimpleCarController2.cs" Line="41" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BasicCar-WheelColliderTutorial" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="c2d771a3-ec7f-4567-9536-2316b4f14dbe" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
